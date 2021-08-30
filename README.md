@@ -9,5 +9,11 @@ Summary of My Internship at Dlithe:
           
 Below are some of the assignments i have done during the internship period..
 
-Fish_weight_Prediction
+Fish_weight_Prediction:-
+                    the Fish data set which i have used in this assignment have been downloaded from kaggle.by using pandas,numpy,seaborn,matplotlib libraries i have done data preprocessing,visualizations for better understanding and atlast found r2 score for better understanding of how our independent variables impact target variables.
+                    
+Gpu_Runtime:-
+          in this dataset i have implemented logistic regression and also i have removed null values by using mean/median, i have used Inter Quartile Range to detect outliers ,matplotlib and seaborn for visualization, used minmaxscaler and standardscaler in sklearn preprocessing
           
+CarPrice_Prediction:-
+                  this assignment i have downloaded from kaggele for predicting the price of car.i have removed some unnecessary columns from dataset for better predictions, null values and histograms for visualization,heatmap for correlation. in this i have implemented RandomForestRegressor algorithm and got R2 score 96 accuracy.
